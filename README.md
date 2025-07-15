@@ -1,4 +1,4 @@
-<h2 align="center">Kazuki Kanda / 神田 一輝</h2>
+<h2 align="center">Kazuki Kanda</h2>
 <p align="center"><strong>Site Reliability Engineer / Machine Learning Engineer</strong></p>
 
 ---
@@ -29,10 +29,9 @@
 
 ---
 
-## ✍️ Latest Posts
-- 2025-07 Ruby MRI と writev――puts/p を徹底追跡  
-- 2025-06 KVM×Rust で最小 VM を作る  
-<sub>more: <https://zenn.dev/ka_kan></sub>
+## 📝 Tech Blog
+- <https://zenn.dev/ka_kan>
+- <https://kazukikandakk.github.io/blog.html>
 
 ---
 
