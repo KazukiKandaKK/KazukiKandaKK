@@ -1,5 +1,5 @@
 <h2 align="center">Kazuki Kanda / 神田 一輝</h2>
-<p align="center"><strong>Site Reliability Engineer</strong></p>
+<p align="center"><strong>Site Reliability Engineer / Machine Learning Engineer</strong></p>
 
 ---
 
