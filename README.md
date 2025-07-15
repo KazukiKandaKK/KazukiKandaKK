@@ -37,4 +37,4 @@ Rails, FastAPI, Flask, Angular, NestJS / AWS, Azure / Terraform / PyTorch, Tenso
 | | |
 |---|---|
 | Portfolio | <https://kazukikandakk.github.io/> |
-| Email     | kazuki.kanda[at]gmail.com |
+| Email     | kazuki.kanda05570[at]gmail.com |
