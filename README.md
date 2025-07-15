@@ -4,12 +4,12 @@
 ---
 
 ## 📝 自己紹介 (JP)
-- Site Reliability Engineer / Machine Learning Engineer（Ruby MRI 内部解析・KVM×Rust などをブログ公開）
+- Site Reliability Engineer / Machine Learning Engineer
 - 開発経験 9 年：Ruby / Rust / Python / MLOps / インフラ（AWS・Terraform）
 
 ## 📝 About me (EN)
-- Site Reliability Engineer / Machine Learning Engineer with **9+ years** in Ruby, Rust, Python, MLOps & Cloud
-- Author of deep-dive posts on Ruby MRI internals and a 64-LOC minimal VM with KVM + Rust
+- Site Reliability Engineer / Machine Learning Engineer
+- 9 years of development experience: Ruby, Rust, Python, MLOps, and infrastructure (AWS, Terraform)
 
 ---
 
