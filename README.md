@@ -14,8 +14,11 @@
 ---
 
 ## ⚙️ Tech Stack
-Python / C / Rust / Ruby / Bash 
-Rails, FastAPI, Flask, Angular, NestJS / AWS, Azure / Terraform / PyTorch, Tensorflow, MLflow 
+- **Languages**  Python / Rust / Ruby / C / Bash
+- **Frameworks** Rails / FastAPI / Flask / Angular / NestJS
+- **Cloud & Infra** AWS / Azure / Terraform
+- **ML / Data** PyTorch / TensorFlow / MLflow
+
 ---
 
 ## 📌 Featured Projects
