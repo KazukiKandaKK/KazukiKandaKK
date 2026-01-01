@@ -5,13 +5,13 @@
 
 ## 📝 自己紹介 (JP)
 - Site Reliability Engineer / Machine Learning Engineer
-- 開発経験 9年：Ruby / Rust / Python / MLOps / インフラ（AWS・Terraform）
+- 開発経験：Ruby / Rust / Python / MLOps / インフラ（AWS・Terraform）
 - 物理学バックグラウンド、低レイヤや機械学習、現場改善に関心あり
 - 学びや技術知見を共有し、誰かの学習のきっかけになれば嬉しいです
 
 ## 📝 About me (EN)
 - Site Reliability Engineer / Machine Learning Engineer
-- 9 years of development experience: Ruby, Rust, Python, MLOps, and infrastructure (AWS, Terraform)
+- development experience: Ruby, Rust, Python, MLOps, and infrastructure (AWS, Terraform)
 - Background in Physics; interested in low-level systems, machine learning, and engineering productivity
 - Passionate about sharing knowledge to help others learn and grow
 
