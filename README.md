@@ -28,13 +28,13 @@
 ---
 
 ## 📝 Tech Blog
-- https://zenn.dev/ka_kan
-- https://kazukikandakk.github.io/blog.html
+- <https://zenn.dev/ka_kan>
+- <https://kazukikandakk.com/experiments>
 
 ---
 
 ## 📫 Contact
 | | |
 |---|---|
-| Portfolio | https://kazukikandakk.github.io/ |
+| Portfolio | <https://kazukikandakk.com/> |
 | Email | kazuki.kanda05570[at]gmail.com |
