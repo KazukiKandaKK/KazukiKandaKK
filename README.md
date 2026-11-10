@@ -5,7 +5,7 @@
 
 ## 📝 About me (EN)
 - Tech Lead & PM at an AI startup, with an SRE/embedded background — leading investigation, design, and implementation of unknown technical challenges
-- Experience: Ruby, Rust, Python, MLOps, AWS, Terraform
+- Experience: MLOps, AWS, Terraform
 - Background in Physics; focused on low-level systems, ML, and engineering productivity
 - Sharing knowledge to help others learn and grow
 
@@ -22,7 +22,7 @@
 - **Systems** OS behavior analysis / Memory layout and boundary cases / VM/runtime/GC behavior (currently exploring)
 - **Cloud/SRE** AWS / Terraform / Azure exposure / Reliability reviews and change management
 - **ML/MLOps** Python / LLM-assisted evaluation flows / Reproducible pipelines and observability
-- **Languages** Ruby / Rust / Python
+- **Languages** TypeScript / Python / Rust / Go
 
 ---
 
