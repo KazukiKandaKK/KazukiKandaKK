@@ -26,14 +26,6 @@
 
 ---
 
-## 📌 Featured Projects
-| Repo | Summary | Tech |
-|------|---------|------|
-| [`PracCode`](https://github.com/KazukiKandaKK/praccode) | Code-reading training platform for web engineers to practice responsible implementation reviews | Next.js / Fastify / Prisma / PostgreSQL / NextAuth / LLM (Ollama, Gemini) |
-| [`llm-control`](https://github.com/KazukiKandaKK/llm-control) | TypeScript SDK for token rate + concurrency control in LLM API calls | TypeScript / Node.js (ESM) / Vitest / tsx |
-
----
-
 ## 📝 Tech Blog
 - <https://zenn.dev/ka_kan>
 - <https://kazukikandakk.com/experiments>
