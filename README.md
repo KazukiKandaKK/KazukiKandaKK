@@ -22,7 +22,7 @@
 - **Systems** OS behavior analysis / Memory layout and boundary cases / VM/runtime/GC behavior (currently exploring)
 - **Cloud/SRE** AWS / Terraform / Azure exposure / Reliability reviews and change management
 - **ML/MLOps** Python / LLM-assisted evaluation flows / Reproducible pipelines and observability
-- **Languages** TypeScript / Python / Rust / Go
+- **Languages** TypeScript / Python / Rust / Go / C++
 
 ---
 
