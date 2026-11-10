@@ -11,6 +11,13 @@
 
 ---
 
+## 🔧 Open Source
+- [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench/pulls?q=is%3Apr+author%3AKazukiKandaKK+is%3Amerged)
+- [borgbackup/borg](https://github.com/borgbackup/borg/pulls?q=is%3Apr+author%3AKazukiKandaKK+is%3Amerged)
+- [apache/pinot](https://github.com/apache/pinot/pulls?q=is%3Apr+author%3AKazukiKandaKK+is%3Amerged)
+
+---
+
 ## ⚙️ Tech Stack
 - **Systems** OS behavior analysis / Memory layout and boundary cases / VM/runtime/GC behavior (currently exploring)
 - **Cloud/SRE** AWS / Terraform / Azure exposure / Reliability reviews and change management
